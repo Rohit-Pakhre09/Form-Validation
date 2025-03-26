@@ -22,28 +22,25 @@ Welcome to the <strong>Form Validation</strong> project! This project demonstrat
 <h2>🖼️ Screenshots / 🎥 Video</h2>
 <p>Here are some snapshots of the project in action:</p>
 
-<span><b>OUTPUT (Valid Form) :-</b></span>
-<img src="PASTE_VALID_FORM_SCREENSHOT_HERE" alt="Form Validation Valid Screenshot" width="600">
+<span><b>OUTPUT (Image Form) :-</b></span><br><br>
+<img src="https://github.com/Rohit-Pakhre09/Form-Validation/blob/c985e35434e637bdbba5b9ab1c3ae6c5ab26cd62/Form%20Validation/Assets/Form-Validation.png" alt="Form Validation Valid Screenshot" width="600">
 
-<span><b>OUTPUT (Invalid Form) :-</b></span>
-<img src="PASTE_INVALID_FORM_SCREENSHOT_HERE" alt="Form Validation Invalid Screenshot" width="600">
+<span><b>OUTPUT (Video Form) :-</b></span><br><br>
+<img src="https://github.com/Rohit-Pakhre09/Form-Validation/blob/c985e35434e637bdbba5b9ab1c3ae6c5ab26cd62/Form%20Validation/Assets/Form%20Validation%20-%20Made%20with%20Clipchamp.gif" alt="Form Validation Invalid Screenshot" width="600">
 
-<span><b>HTML :-</b></span>
-<img src="PASTE_HTML_SCREENSHOT_HERE" alt="Form Validation HTML Screenshot" width="600">
+<span><b>HTML :-</b></span><br><br>
+<img src="https://github.com/Rohit-Pakhre09/Form-Validation/blob/c985e35434e637bdbba5b9ab1c3ae6c5ab26cd62/Form%20Validation/Assets/HTML.png" alt="Form Validation HTML Screenshot" width="600">
 
-<span><b>CSS :-</b></span>
-<img src="PASTE_CSS_SCREENSHOT_HERE" alt="Form Validation CSS Screenshot" width="600">
+<span><b>CSS :-</b></span><br><br>
+<img src="https://github.com/Rohit-Pakhre09/Form-Validation/blob/c985e35434e637bdbba5b9ab1c3ae6c5ab26cd62/Form%20Validation/Assets/CSS.png" alt="Form Validation CSS Screenshot" width="600">
 
-<span><b>JAVASCRIPT :-</b></span>
-<img src="PASTE_JS_SCREENSHOT_HERE" alt="Form Validation JavaScript Screenshot" width="600">
+<span><b>JAVASCRIPT :-</b></span><br><br>
+<img src="https://github.com/Rohit-Pakhre09/Form-Validation/blob/c985e35434e637bdbba5b9ab1c3ae6c5ab26cd62/Form%20Validation/Assets/JavaScript.png" alt="Form Validation JavaScript Screenshot" width="600">
 
-<h2>🎥 Demo Video</h2>
-<p>Watch the project in action:</p>
-<img src="PASTE_DEMO_VIDEO_GIF_HERE" width="600">
 
 <h2>📩 Connect with Me</h2>
 <p>Feel free to reach out or contribute to this project!</p>
 <ul>
-<li>🔗 Linked In Profile: <a href="YOUR_LINKEDIN_PROFILE_LINK">LinkedIn</a></li>
-<li>📧 Email: YOUR_EMAIL_ADDRESS</li>
+<li>🔗 Linked In Profile: <a href="https://www.linkedin.com/in/rohit-pakhre/">LinkedIn</a></li>
+<li>📧 Email: pakhrerohit281@gmail.com</li>
 </ul>
