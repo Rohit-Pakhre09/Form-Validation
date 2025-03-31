@@ -29,9 +29,6 @@ Welcome to the <strong>Form Validation</strong> project! This project demonstrat
 <p>Watch the project in action:</p>
 <img src="https://github.com/Rohit-Pakhre09/Form-Validation/blob/fd19a0f506d884b9205f28779d3e050ef78cc018/Form%20Validation/Assets/Form%20Validation.gif">
 
-<span><b>HTML & JavaScript Code Snippet:-</b></span><br><br>
-<img src="https://github.com/Rohit-Pakhre09/Form-Validation/blob/fd19a0f506d884b9205f28779d3e050ef78cc018/Form%20Validation/Assets/Code%20Snippet.png" width="800">
-
 
 <h2>📩 Connect with Me</h2>
 <p>Feel free to reach out or contribute to this project!</p>
