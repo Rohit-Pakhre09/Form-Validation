@@ -3,7 +3,7 @@ const guide_msg = document.getElementById('guide_msg');
 
 btn.addEventListener('click', () => {
     
-    let name = document.getElementById('name').value.trim().replace(/\s+/g, ' '); // Removes extra spaces
+    let name = document.getElementById('name').value.trim().replace(/\s+/g, ' '); 
     let email = document.getElementById('email').value.trim();
     let password = document.getElementById('password').value.trim();
     let confirm_password = document.getElementById('confirm_password').value.trim();
